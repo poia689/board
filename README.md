@@ -1,1 +1,1 @@
-# 김승현 Spring Framwork를 이용한 게시판 
+# 김승현 Spring Framwork를 이용한 게시판 실습
